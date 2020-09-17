@@ -8,4 +8,4 @@ public class CommentsInfo {
     boolean canOpen;
 
     // + get/set на все поля
-}
+    }
