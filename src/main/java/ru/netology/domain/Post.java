@@ -19,6 +19,11 @@ public class Post {
     private boolean markedAsAd;
     private boolean isFavorite;
     private int posponedId;
+    private CommentsInfo commentsInfo;
+    private GeoInfo geoInfo;
+    private LikesInfo likesInfo;
+    private RepostsInfo repostsInfo;
+    private ViewsInfo viewsInfo;
 
     // + get/set на все поля
 }

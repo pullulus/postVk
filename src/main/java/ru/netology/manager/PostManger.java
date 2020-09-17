@@ -1,4 +1,4 @@
-package manager;
+package ru.netology.manager;
 
 public class PostManger {
     private Post[] posts;
